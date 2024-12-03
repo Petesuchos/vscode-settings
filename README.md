@@ -7,7 +7,8 @@ Aqui você encontrará arquivos de configuração que ajudam a personalizar e ot
 
 - **`.vscode/settings.json`**: Contém as configurações do workspace do VS Code.
 - **`extensions.txt`**: Lista de extensões recomendadas e utilizadas.
-- **`user-settings.json`**: Contém as configurações de usuário do VS Code. 
+- **`user-settings.json`**: Contém as configurações de usuário do VS Code.
+- **`ruff.toml`**: Contém as configurações do Ruff.
 - @TODO: **`keybindings.json`**: Contém os atalhos de teclado personalizados.
 - @TODO: **`snippets/`**: Diretório que armazena snippets de código personalizados.
 
